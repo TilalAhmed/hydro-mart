@@ -4,7 +4,7 @@ A cross-platform mobile application that connects customers with local RO (Rever
 
 > **Final Year Project** — Iqra University, BS Computer Science (Batch 2020–2024)  
 > **Team:** Arham Ali, Tilal Ahmed, Mirza Humza Saeed  
-> **Supervisor:** Syed Jamal Haider Zaidi (Assistant Professor)
+> **Supervisor:** Syed Jamal Haider Zaidi
 
 ---
 
